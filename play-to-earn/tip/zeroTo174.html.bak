@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <title>zeroTo174</title>
+  <link rel="stylesheet" href="./style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+  <style>
+  a.tan:link {color:black;text-decoration:none;}
+a.tan:visited {color:black;text-decoration:none;}
+a.tan:hover {text-decoration:underline;}
+  </style>
+</head>
+<body style="background-color: #f5ff96;">
+<div class="card">
+<h1 style="text-align: center">#1: Leo map từ 0 đến 174</h1>
+<h3 style="text-align: center"><i class="bi-clock"></i>Cập nhật: 02/01/2022
+<br><a class="tan" href="#" target="_blank"><i class="bi-arrows-fullscreen"></i>Mở trong tab mới</a></h3>
+<h4><i class="bi-archive"></i>Tài liệu: <a href="https://youtu.be/NgW25t6l8C0" target="_blank"><i class="bi-link-45deg"></i>Clip tham khảo từ kênh bác Jen</a>
+<br> <a href="https://docs.google.com/spreadsheets/d/1ppCR5ABq5iAbAvUT6gh8zWj7HiGe5NidWtFdE03naX0/edit?usp=sharing" target="_blank"><i class="bi-link-45deg"></i>Bảng item chỉ số từ yếu đến khỏe</a>
+</h4>
+<h2><i class="bi-patch-check"></i>Những đồ cần mua để nhân vật chính bay thẳng lên 174</h2>
+<a href="#img1">
+  <img class="thumb" src="files\zeroTo174\pic1.png">
+</a>
+<!-- lightbox container hidden with CSS -->
+<div class="lightbox" id="img1">
+  <a href="#img3" class="light-btn btn-prev">prev</a>
+    <a href="#_" class="btn-close"><i class="bi-x-lg"></i></a>
+    <img src="files\zeroTo174\pic1.png">
+  <a href="#img2" class="light-btn btn-next">next</a>
+</div>
+<a href="#img2">
+  <img class="thumb" src="files\zeroTo174\pic2.png">
+</a>
+<!-- lightbox container hidden with CSS -->
+<div class="lightbox" id="img2">
+  <a href="#img1" class="light-btn btn-prev">prev</a>
+    <a href="#_" class="btn-close"><i class="bi-x-lg"></i></a>
+    <img src="files\zeroTo174\pic2.png">
+  <a href="#img3" class="light-btn btn-next">next</a>
+</div>
+<a href="#img3">
+  <img class="thumb" src="files\zeroTo174\pic3.png">
+</a>
+<!-- lightbox container hidden with CSS -->
+<div class="lightbox" id="img3">
+  <a href="#img2" class="light-btn btn-prev">prev</a>
+    <a href="#_" class="btn-close"><i class="bi-x-lg"></i></a>
+    <img src="files\zeroTo174\pic3.png">
+  <a href="#img1" class="light-btn btn-next">next</a>
+</div>
+<p><i>Bạn tham khảo link bảng item có chỉ số mạnh đến yếu ở trên, nếu item mạnh hơn mà cùng giá với bảng item được giới thiệu thì bạn hãy múc cái ngon hơn vì có thể mk sẽ ko cập nhật thường xuyên theo giá thị trường</i><p>
+<p>Với việc bạn tích lũy khá khá nguyên liệu để chế nhẫn gió 170 và kiếm gió 174 trước đó, đẩy lên 174 nhanh sẽ mở khóa những map có nguyên liệu phụ và công thức chế tạo
+<br>Bạn sẽ nhiều nhất là 15NCG, ít nhất là 7NCG để đầu tư <a class="tan" href="#img1"><i class="bi-image"></i>những item này</a> và up +3 tất cả trừ cái War Belt
+<br><a class="tan" href="#img2"><i class="bi-image"></i>Hoặc như set đồ chỉ 5NCG này,</a> cái áo bạn tự chế ra skill, phương pháp này mk thấy tiết kiệm và ok nhất
+<br>Sau đó hãy tích đủ nguyên liệu để chế 1 lần 4 phát thì ra skill sẽ cao hơn, vì trước mk chế lẻ tẻ khó ra
+<br>Đồ trên map 100 dưới map 200 mà cần skill nên chế Premium thay vì Basic, hãy chế cái nhẫn gió map 174 trước với chỉ số DEF tổng > 180 và SPD > 3 có skill
+<br><img src="files/hot.gif" alt="hot">2 char phụ không cần đầu tư gì cả <a class="tan" href="#img3"><i class="bi-image"></i>và chế mỗi món vài cái tập trung chế áo 75 để bán dc nhiều,</a> chỉ cần chế Basic đồ mới mở khóa rồi up dần +3 là lên map 102 dễ thôi, nếu kẹt bạn cố chế skill cái kiếm và áo là ổn
+<br>Chế cái kiếm gió 174 Premium với mục đích bán đi để tích NCG, nếu bạn may mắn lúc chế nhẫn thì giữ lại 1 và bán để tích tầm 60-80NCG để chuyển sang #2: Leo map từ 174 đến 201
+</p>
+
+</div>
+<script src="./script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <title>zeroTo174</title>
+  <link rel="stylesheet" href="./style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+  <style>
+  a.tan:link {color:black;text-decoration:none;}
+a.tan:visited {color:black;text-decoration:none;}
+a.tan:hover {text-decoration:underline;}
+  </style>
+</head>
+<body style="background-color: #f5ff96;">
+<div class="card">
+<h1 style="text-align: center">Check thông tin tài khoản</h1>
+<h3 style="text-align: center"><i class="bi-clock"></i>Cập nhật: 03/03/2022
+<br><a class="tan" href="#" target="_blank"><i class="bi-arrows-fullscreen"></i>Mở trong tab mới</a></h3>
+<h4><i class="bi-archive"></i>Tài liệu: <a href="https://www.gamingmike.com/games/nine-chronicles/account-monitor" target="_blank"><i class="bi-link-45deg"></i>Nguồn từ trang Gaming Mike</a>
+</h4>
+</div>
+<iframe src="https://script.google.com/macros/s/AKfycbxVkTo8-A6XcvEwyY-yXI8dkWeEHb0Ll482W4mqx74xBJy4UfJkHE8JUhBnpaSESAtqXA/exec" style="width: 100%;height: 1000px;"></iframe>
+<script src="./script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:800);
+
+#dayst {
+  font-size: 30px;
+  color: #db4844;
+}
+#days {
+  font-size: 30px;
+  color: #abcd58;
+}
+#hours {
+  font-size: 24px;
+  color: #f07c22;
+}
+#minutes {
+  font-size: 18px;
+  color: #f6da74;
+}
+#seconds {
+  font-size: 14px;
+  color: #abcd58;
+}
+
+.time {
+  display: inline-block;
+  line-height: 2;
+  padding: 0px;
+  font-size: 0px;
+  font-family: 'Covered By Your Grace', cursive;
+}
+
+span {
+  display: inline-block;
+  font-size: 10px;
+  color: White;
+  text-align: left;
+  font-family: 'Tahoma', cursive;
+}
